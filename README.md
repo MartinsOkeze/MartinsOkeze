@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Martins Okeze 👋
 
-<!--
-**MartinsOkeze/MartinsOkeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring IT Support Professional | Help Desk
 
-Here are some ideas to get you started:
+I'm building my skills in IT support, computer troubleshooting, Windows operating systems, and basic networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Learning IT support and help desk fundamentals
+- Practising computer and connectivity troubleshooting
+- Developing clear technical documentation
+- Building hands-on projects for my IT Support portfolio
+
+### Technical Skills I'm Developing
+- Windows troubleshooting
+- Basic networking: IP addresses, DNS, and connectivity
+- Help desk ticket documentation
+- Software installation and common desktop issues
+- Customer communication and issue escalation
+
+### My Projects
+- IT Support Troubleshooting Guide
+- Help Desk Ticket Simulations
+- Networking Basics Lab
+
+### Career Goal
+To secure an entry-level IT Support or Help Desk position and continue developing practical technical skills.
+
+*This portfolio contains learning projects and simulated scenarios unless otherwise stated.*
